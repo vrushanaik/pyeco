@@ -1,7 +1,7 @@
 absl-py==2.3.1
 attrs==25.3.0
 click==8.2.1
-cloudpickle==3.0.0+ppc64le1
+cloudpickle==3.0.0
 dask==2025.10.0+ppc64le1
 dm-tree==0.1.10+ppc64le1
 fsspec==2025.3.0+ppc64le1

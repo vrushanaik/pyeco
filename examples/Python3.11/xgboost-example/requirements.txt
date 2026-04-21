@@ -1,4 +1,4 @@
-alabaster==1.0.0+ppc64le1
+alabaster==1.0.0
 babel==2.17.0
 certifi==2025.11.12+ppc64le1
 cffi==2.0.0+ppc64le1

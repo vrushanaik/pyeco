@@ -1,6 +1,6 @@
 absl-py==2.4.0
 astunparse==1.6.3
-certifi==2025.11.12+ppc64le1
+certifi==2025.11.12
 charset-normalizer==3.4.4
 cryptography==46.0.3+ppc64le1
 flatbuffers==25.2.10+ppc64le1

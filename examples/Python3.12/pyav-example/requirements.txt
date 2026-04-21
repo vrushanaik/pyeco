@@ -1,4 +1,4 @@
-av==14.0.1+ppc64le1
+av==14.0.1
 llvmlite==0.45.1+ppc64le1
 ml_dtypes==0.5.4+ppc64le1
 numpy==1.26.4+ppc64le1
