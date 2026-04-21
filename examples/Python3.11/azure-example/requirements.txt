@@ -1,7 +1,7 @@
 azure-common==1.1.28
 azure-core==1.35.0
 azure-mgmt-authorization==4.0.0
-azure-mgmt-batch==18.0.0+ppc64le1
+azure-mgmt-batch==18.0.0
 azure-mgmt-cdn==13.1.1+ppc64le1
 azure-mgmt-containerregistry==14.0.0+ppc64le1
 azure-mgmt-containerservice==36.0.0+ppc64le1
