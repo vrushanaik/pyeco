@@ -63,7 +63,7 @@ multidict==6.7.1
 networkx==3.6.1
 ninja==1.13.0
 numba==0.63.1+ppc64le1
-numpy==2.4.4+ppc64le1
+numpy==2.2.6+ppc64le1 
 openai==2.29.0
 openai-harmony==0.0.8
 opencv-python-headless==4.13.0.92+ppc64le1
