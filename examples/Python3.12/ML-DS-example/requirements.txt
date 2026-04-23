@@ -99,9 +99,9 @@ notebook==6.5.7+ppc64le1
 notebook_shim==0.2.4
 numba==0.63.1+ppc64le1
 numexpr==2.13.1+ppc64le1
-numpy==2.4.4+ppc64le1
+numpy==2.3.5+ppc64le1
 packaging==26.0
-pandas==3.0.2+ppc64le1
+pandas==2.3.3+ppc64le1
 pandocfilters==1.5.1
 parso==0.8.6
 partd==1.4.2+ppc64le1
@@ -140,7 +140,7 @@ scikit-learn==1.8.0+ppc64le1
 scipy==1.17.1+ppc64le1
 Send2Trash==2.1.0
 sentencepiece==0.2.0+ppc64le1
-setuptools==82.0.0
+setuptools<82
 six==1.17.0
 smart_open==7.5.1
 sortedcontainers==2.4.0
