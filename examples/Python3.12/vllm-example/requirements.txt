@@ -63,7 +63,7 @@ multidict==6.7.1
 networkx==3.6.1
 ninja==1.13.0
 numba==0.63.1+ppc64le1
-numpy==2.4.4+ppc64le1
+numpy==2.3.5+ppc64le1
 openai==2.29.0
 openai-harmony==0.0.8
 opencv-python-headless==4.13.0.92+ppc64le1
@@ -107,7 +107,7 @@ sniffio==1.3.1+ppc64le1
 sse-starlette==3.3.3
 starlette==0.52.1
 supervisor==4.3.0
-sympy==1.15.0.dev0
+sympy==1.15.0.dev0+ppc64le1
 tokenizers==0.22.2
 torch==2.11.0+ppc64le1
 tqdm==4.67.3
@@ -117,7 +117,7 @@ typing-inspection==0.4.2
 typing_extensions==4.15.0
 urllib3==2.6.3
 uvicorn==0.42.0
-vllm==0.18.1
+vllm==0.18.1+cpuppc64le1
 watchfiles==0.21.0
 websockets==16.0
 wrapt==2.1.2
