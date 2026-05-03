@@ -34,7 +34,7 @@ requests-oauthlib==2.0.0+ppc64le1
 rich==14.3.3
 rsa==4.9.1
 six==1.17.0
-tensorboard==2.14.1
+tensorboard==2.18
 tensorboard-data-server==0.7.2
 tensorflow==2.18.1+ppc64le1
 tensorflow-estimator==2.14.0
