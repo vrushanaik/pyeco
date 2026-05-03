@@ -33,6 +33,7 @@ filelock==3.25.2
 frozenlist==1.8.0
 fsspec==2026.2.0
 gguf==0.18.0
+googleapis-common-protos==1.74.0
 grpcio==1.71.0+ppc64le2
 h11==0.16.0
 httpcore==1.0.9
@@ -40,6 +41,7 @@ httptools==0.7.1
 httpx==0.28.1
 httpx-sse==0.4.3
 huggingface-hub==0.36.2
+importlib-metadata==8.7.1
 idna==3.11
 ijson==3.5.0
 interegular==0.3.3
@@ -67,6 +69,15 @@ numpy==2.2.6+ppc64le1
 openai==1.99.1
 openai-harmony==0.0.8
 opencv-python-headless==4.13.0.92+ppc64le1
+opentelemetry-api==1.41.1
+opentelemetry-exporter-otlp==1.41.1
+opentelemetry-exporter-otlp-proto-common==1.41.1
+opentelemetry-exporter-otlp-proto-grpc==1.41.1
+opentelemetry-exporter-otlp-proto-http==1.41.1
+opentelemetry-proto==1.41.1
+opentelemetry-sdk==1.41.1
+opentelemetry-semantic-conventions==0.51b1
+opentelemetry-semantic-conventions-ai==0.5.1
 outlines_core==0.2.11+ppc64le1
 packaging==26.0
 partial-json-parser==0.2.1.1.post7
