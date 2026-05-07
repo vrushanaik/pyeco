@@ -36,6 +36,10 @@ case $DISTRO in
         $SUDO apt update
         $SUDO apt install -y python3.12 python3.12-dev python3.12-venv python3-pip build-essential
         ;;
+    "sles")
+        sudo zypper refresh
+        sudo zypper install -y python312 python312-pip python312-devel
+        ;;
     *)
         echo " Unsupported distro: $DISTRO"
         exit 1
