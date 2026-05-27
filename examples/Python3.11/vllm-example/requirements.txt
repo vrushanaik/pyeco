@@ -16,7 +16,7 @@ cffi==2.0.0+ppc64le1
 charset_normalizer==3.4.6
 click==8.3.1
 cloudpickle==3.1.2+ppc64le1
-compressed-tensors==0.13.0
+compressed-tensors==0.15.0.1
 depyf==0.20.0
 dill==0.4.1+ppc64le1
 diskcache==5.6.3
