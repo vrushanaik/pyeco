@@ -67,7 +67,7 @@ numpy==2.2.6+ppc64le1
 openai==2.0.0
 openai-harmony==0.0.8+ppc64le1
 opencv-python-headless==4.13.0.92+ppc64le1
-outlines_core==0.2.11+ppc64le1
+outlines_core==0.2.14
 packaging==26.0
 partial-json-parser==0.2.1.1.post7
 prometheus-fastapi-instrumentator==7.1.0
