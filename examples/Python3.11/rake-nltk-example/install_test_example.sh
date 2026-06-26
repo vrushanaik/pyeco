@@ -59,7 +59,7 @@ WORKDIR=$(pwd)
 
 cd $WORKDIR
 
-python3.11 bcrypt_example.py
+python3.11 rake_nltk_example.py
 
 echo "\n ==== Running tests ==== \n"
 
