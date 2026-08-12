@@ -27,9 +27,10 @@ for level in [0, 9, 16]:
 # --- 3. lz4.block (no framing, lower-level) ---
 print("\n3. Block-level compression (lz4.block)")
 
-text = b"The quick brown fox jumps over the lazy dog. " * 50
+text = b"The quick brown fox jumps over the lazy dog. " * 50 # lz4.block.compress stores the original size as a 4-byte header by default
+# (store_size=True). Omit uncompressed_size so decompress reads the header.
 c_block = lz4.block.compress(text)
-d_block = lz4.block.decompress(c_block, uncompressed_size=len(text))
+d_block = lz4.block.decompress(c_block)
 
 print(f"   Original   : {len(text)} bytes")
 print(f"   Compressed : {len(c_block)} bytes")

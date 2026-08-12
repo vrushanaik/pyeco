@@ -35,8 +35,9 @@ class TestLZ4(unittest.TestCase):
     def test_block_roundtrip(self):
         """lz4.block compress/decompress round-trip"""
         data = b"block compression test " * 200
+        # compress stores size header by default; decompress reads it automatically
         compressed   = lz4.block.compress(data)
-        decompressed = lz4.block.decompress(compressed, uncompressed_size=len(data))
+        decompressed = lz4.block.decompress(compressed)
         self.assertEqual(decompressed, data)
 
     def test_compression_levels(self):
