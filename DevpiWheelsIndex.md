@@ -1,7 +1,8 @@
 # DevPi Wheels Index
 ---
-### Last Updated On: August 20, 2026
-### Last CVE Scanned On: August 20, 2026
+### Last Updated On: August 26, 2026
+### Last CVE Scanned On: August 26, 2026
+
 ----
 
 ### abseil-cpp
@@ -3426,7 +3427,7 @@
 
 | Wheel File | License | CVE IDs |
 |:-----------|:-------|:--------|
-| fastavro-1.9.7-cp310-cp310-manylinux2014_ppc64le.manylinux_2_17_ppc64le.whl<br>fastavro-1.9.7-cp311-cp311-manylinux2014_ppc64le.manylinux_2_17_ppc64le.whl<br>fastavro-1.9.7-cp312-cp312-manylinux2014_ppc64le.manylinux_2_17_ppc64le.whl | `Apache-2.0`, `MIT` | N.A |
+| fastavro-1.9.7-cp310-cp310-manylinux2014_ppc64le.manylinux_2_17_ppc64le.whl<br>fastavro-1.9.7-cp311-cp311-manylinux2014_ppc64le.manylinux_2_17_ppc64le.whl<br>fastavro-1.9.7-cp312-cp312-manylinux2014_ppc64le.manylinux_2_17_ppc64le.whl<br>fastavro-1.9.7-cp313-cp313-manylinux2014_ppc64le.manylinux_2_17_ppc64le.manylinux_2_34_ppc64le.whl<br>fastavro-1.9.7-cp314-cp314-manylinux2014_ppc64le.manylinux_2_17_ppc64le.manylinux_2_34_ppc64le.whl | `Apache-2.0`, `MIT` | N.A |
 
 ----
 - **fastavro==1.9.7+ppc64le1**
