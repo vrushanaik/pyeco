@@ -1,7 +1,7 @@
 # DevPi Wheels Index
 ---
-### Last Updated On: August 26, 2026
-### Last CVE Scanned On: August 26, 2026
+### Last Updated On: August 28, 2026
+### Last CVE Scanned On: August 28, 2026
 
 ----
 
@@ -2043,6 +2043,15 @@
 
 ----
 
+### Composio
+- **Composio==0.16.0**
+
+| Wheel File | License | CVE IDs |
+|:-----------|:-------|:--------|
+| Composio-0.16.0-py3-none-any.whl | `Apache-2.0` | N.A |
+
+----
+
 ### confluent-kafka
 - **confluent-kafka==2.10.0**
 
@@ -3354,6 +3363,15 @@
 | Wheel File | License | CVE IDs |
 |:-----------|:-------|:--------|
 | executing-2.2.0+ppc64le1-py2.py3-none-any.whl | `MIT` | N.A |
+
+----
+
+### faiss-cpu
+- **faiss-cpu==1.9.0.post1**
+
+| Wheel File | License | CVE IDs |
+|:-----------|:-------|:--------|
+| faiss_cpu-1.9.0.post1-cp312-abi3-manylinux_2_39_ppc64le.whl<br>faiss_cpu-1.9.0.post1-cp313-abi3-manylinux_2_39_ppc64le.whl<br>faiss_cpu-1.9.0.post1-cp314-abi3-manylinux_2_39_ppc64le.whl | `BSD-3-Clause`, `HPND`,<br>`MIT` | N.A |
 
 ----
 
