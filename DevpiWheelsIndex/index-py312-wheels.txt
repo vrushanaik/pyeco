@@ -650,7 +650,7 @@ oracledb==2.5.1
 oracledb==2.5.1+ppc64le1
 orange3==3.38.1
 orange3==3.38.1+ppc64le1
-orjson==3.12.0+ppc64le1
+orjson==3.12.0
 ormsgpack==1.10.0
 ormsgpack==1.10.0+ppc64le1
 ormsgpack==1.11.0
