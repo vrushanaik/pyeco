@@ -9493,11 +9493,11 @@
 ----
 
 ### orjson
-- **orjson==3.12.0+ppc64le1**
+- **orjson==3.12.0**
 
 | Wheel File | License | CVE IDs |
 |:-----------|:-------|:--------|
-| orjson-3.12.0+ppc64le1-cp310-cp310-manylinux_2_34_ppc64le.whl<br>orjson-3.12.0+ppc64le1-cp311-cp311-manylinux_2_34_ppc64le.whl<br>orjson-3.12.0+ppc64le1-cp312-cp312-manylinux_2_34_ppc64le.whl<br>orjson-3.12.0+ppc64le1-cp313-cp313-manylinux_2_34_ppc64le.whl<br>orjson-3.12.0+ppc64le1-cp314-cp314-manylinux_2_34_ppc64le.whl | `Apache-2.0`,<br>`Apache-2.0 OR MIT`,<br>`BSD-3-Clause`,<br>`BSL-1.0`,<br>`LLVM-exception`, `MIT`,<br>`MIT OR Apache-2.0`,<br>`MPL-2.0`, `Unlicense` | N.A |
+| orjson-3.12.0-cp310-cp310-manylinux_2_34_ppc64le.whl<br>orjson-3.12.0-cp311-cp311-manylinux_2_34_ppc64le.whl<br>orjson-3.12.0-cp312-cp312-manylinux_2_34_ppc64le.whl<br>orjson-3.12.0-cp313-cp313-manylinux_2_34_ppc64le.whl<br>orjson-3.12.0-cp314-cp314-manylinux_2_34_ppc64le.whl | `Apache-2.0`,<br>`Apache-2.0 OR MIT`,<br>`BSD-3-Clause`,<br>`BSL-1.0`,<br>`LLVM-exception`, `MIT`,<br>`MIT OR Apache-2.0`,<br>`MPL-2.0`, `Unlicense` | N.A |
 
 ----
 
