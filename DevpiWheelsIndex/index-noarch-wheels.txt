@@ -149,6 +149,7 @@ cloudpickle==3.1.1
 cloudpickle==3.1.1+ppc64le1
 cloudpickle==3.1.2
 cloudpickle==3.1.2+ppc64le1
+Composio==0.16.0
 crmsh==0.0.1
 crmsh==0.0.1+ppc64le1
 crmsh==4.6.0
