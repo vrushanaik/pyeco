@@ -153,7 +153,7 @@ tenacity==9.1.4
 terminado==0.18.1
 threadpoolctl==3.6.0
 tifffile==2026.2.24
-tiktoken==0.12.0
+tiktoken==0.13.0
 tinycss2==1.4.0
 tokenizers==0.21.1
 toolz==1.1.0
