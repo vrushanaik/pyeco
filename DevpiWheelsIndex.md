@@ -1,7 +1,7 @@
 # DevPi Wheels Index
 ---
-### Last Updated On: August 26, 2026
-### Last CVE Scanned On: August 26, 2026
+### Last Updated On: September 03, 2026
+### Last CVE Scanned On: September 03, 2026
 
 ----
 
@@ -9489,6 +9489,15 @@
 | Wheel File | License | CVE IDs |
 |:-----------|:-------|:--------|
 | orc-2.0.3+ppc64le1-py3-none-manylinux_2_34_ppc64le.whl | `Apache-2.0`,<br>`BSD-3-Clause`,<br>`CC-BY-3.0`, `CC-BY-4.0`,<br>`GPL-2.0-or-later`,<br>`MIT`, `Zlib` | N.A |
+
+----
+
+### orjson
+- **orjson==3.12.0+ppc64le1**
+
+| Wheel File | License | CVE IDs |
+|:-----------|:-------|:--------|
+| orjson-3.12.0+ppc64le1-cp310-cp310-manylinux_2_34_ppc64le.whl<br>orjson-3.12.0+ppc64le1-cp311-cp311-manylinux_2_34_ppc64le.whl<br>orjson-3.12.0+ppc64le1-cp312-cp312-manylinux_2_34_ppc64le.whl<br>orjson-3.12.0+ppc64le1-cp313-cp313-manylinux_2_34_ppc64le.whl<br>orjson-3.12.0+ppc64le1-cp314-cp314-manylinux_2_34_ppc64le.whl | `Apache-2.0`,<br>`Apache-2.0 OR MIT`,<br>`BSD-3-Clause`,<br>`BSL-1.0`,<br>`LLVM-exception`, `MIT`,<br>`MIT OR Apache-2.0`,<br>`MPL-2.0`, `Unlicense` | N.A |
 
 ----
 
